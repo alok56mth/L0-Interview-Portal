@@ -1,0 +1,6 @@
+1.npm install -g pnpm
+2.pnpm create vite@latest ./
+3.pnpm add -D tailwindcss@3.4.17 postcss autoprefix
+4.pnpm tailwindcss init -p
+
+/////
